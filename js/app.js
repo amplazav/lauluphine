@@ -1,4 +1,4 @@
-﻿// Quiz interactivo para Lauluphine — lógica + sonidos WebAudio
+// Quiz interactivo para Lauluphine — lógica + sonidos WebAudio
 let questions = [];
 const defaultQuestions = [
   { q: "¿Qué tiene en común Nemo y el papá de Lau?", choices: ["Son difíciles de encontrar", "Nadie sabe dónde están", "Tema sensible", "No se puede encontrar a ninguno de los dos"], answer: 3, pet: "botton" },
