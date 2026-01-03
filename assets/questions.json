@@ -1,56 +1,12 @@
 [
-  {
-    "q": "¿Cuál es el snack favorito de Botton (el pug)?",
-    "choices": ["Galletas de vainilla","Trozos de pollo","Zanahorias","Salmón"],
-    "answer": 1,
-    "pet": "botton"
-  },
-  {
-    "q": "¿Qué le encanta a Bao (el hámster) para dormir?",
-    "choices": ["Una hamaca","Una cama de hojas suaves","Una caja de cartón","Una almohada gigante"],
-    "answer": 2,
-    "pet": "bao"
-  },
-  {
-    "q": "¿Qué color le encanta más a Lauluphine?",
-    "choices": ["Rosa pastel","Verde oliva","Negro","Amarillo fuerte"],
-    "answer": 0
-  },
-  {
-    "q": "Si Botton pudiera hablar, ¿qué diría cuando te ve?",
-    "choices": ["¡Hola mejor amiga!","Tengo hambre...","¿Dónde está la pelota?","Voy a dormir."],
-    "answer": 0,
-    "pet": "botton"
-  },
-  {
-    "q": "¿Cuál de estos es un accesorio kawaii perfecto?",
-    "choices": ["Sombrero de paja","Lazo rosa","Gafas oscuras","Botas de trabajo"],
-    "answer": 1
-  },
-  {
-    "q": "Bao es mejor en:",
-    "choices": ["Cantar","Correr en la ruedita","Nadar","Pintar"],
-    "answer": 1,
-    "pet": "bao"
-  },
-  {
-    "q": "¿Qué palabra describe mejor este juego?",
-    "choices": ["Apasionante","Dulce","Peligroso","Aburrido"],
-    "answer": 1
-  },
-  {
-    "q": "¿Qué detalle añadirías al cuarto de Lauluphine?",
-    "choices": ["Luces de corazón","Pared gris oscuro","Cortinas negras","Pisos de cemento"],
-    "answer": 0
-  },
-  {
-    "q": "¿Cuál es la mejor forma de celebrar un buen día con Botton y Bao?",
-    "choices": ["Picnic con snacks","Ir al supermercado","Hacer tareas","Lavar el auto"],
-    "answer": 0
-  },
-  {
-    "q": "¿Qué mensaje te gustaría recibir hoy?",
-    "choices": ["¡Eres increíble!","¿Dónde estás?","Haz más trabajo","Silencio absoluto"],
-    "answer": 0
-  }
-]
+  { q: "¿Qué tiene en común Nemo y el papá de Lau?", choices: ["Son difíciles de encontrar", "Nadie sabe dónde están", "Tema sensible", "No se puede encontrar a ninguno de los dos"], answer: 3, pet: "botton" },
+  { q: "Una mujer está embarazada de trillizas niñas, ¿qué tiene?", choices: ["Una linda familia", "Un hogar hermoso y duradero", "Un kit de limpieza", "Muchas deudas"], answer: 2, pet: "bao" },
+  { q: "Si se acaba la dictadura de Maduro ahora que fue preso, pasará lo siguiente:", choices: ["Subirá la propina de los rappis", "Ya no venderán dulces en los TransMilenios", "Colombia será un país mejor", "Todas las anteriores"], answer: 3 },
+  { q: "En una camioneta viaja un mexicano, un boliviano y un peruano, ¿quién maneja la camioneta?", choices: ["El oficial de migración", "Peruano", "Boliviano", "Mexicano"], answer: 0, pet: "botton" },
+  { q: "¿Cuál de estos es un accesorio kawaii perfecto para Lau?", choices: ["Delantal y Ollas", "Lazo rosa y vestidos", "Gafas oscuras", "Tacones"], answer: 0 },
+  { q: "Si pudieras describir a Lau en 3 palabras, ¿cuáles serían?", choices: ["Dulce · Única · Especial", "Fuerte · Auténtica · Brillante", "Encantadora · Inteligente · Inolvidable", "Racista · Xenófoba · Uribista"], answer: 3, pet: "bao" },
+  { q: "¿Qué haces cuando un epiléptico tiene un ataque mientras está en la bañera?", choices: ["Brindas los primeros auxilios", "Revisas su pulso y su estado de salud", "Echas la ropa y el jabón.", "No sé"], answer: 2 },
+  { q: "¿Cuál es la persona que más quiere en este mundo Lau?", choices: ["Leon S. Kennedy", "Sett", "Kayn", "Alexis"], answer: 3 },
+  { q: "Si estás en una partida y vas con un jungla que va 0-10 al minuto 8, ¿qué le dirías?", choices: ["Le doy ánimos para que se pueda remontar", "Le escribo manco de mierda y que los negros deben estar en un campo de algodón", "Me quedo callada", "uwu"], answer: 1 },
+  { q: "Si pudieras recibir un regalo el día de hoy, ¿qué sería?", choices: ["Iluminador y brillo Dior", "Perfume caro", "Cosplay nuevo", "No más peruanos ni venecos en este mundo"], answer: 3 }
+];
